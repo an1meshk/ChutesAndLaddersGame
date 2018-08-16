@@ -21,4 +21,4 @@
 
 # How to Run
 #### java -jar chutesandladdersgame-1.0-SNAPSHOT.jar
-#### Note - Dependent libraries are kept under libs folder
+#### Note - Dependent libraries mentioned in MANIFEST are needed to run the program
