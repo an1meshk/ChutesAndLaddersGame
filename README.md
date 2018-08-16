@@ -1,4 +1,4 @@
-# Assumptions
+# Game Description
 #### Game board is of size 10 x 10, and maximum number on the game board is 100
 #### This Chutes and Ladders game is played by minimum 2 and maximum of 4 players
 #### A spinner is used to navigate ahead in the game, and spinner outcome will be between 1 & 6
@@ -20,5 +20,5 @@
 
 
 # How to Run
-java -jar chutesandladdersgame-1.0-SNAPSHOT.jar
-Note - Dependent libraries are kept under libs folder
+#### java -jar chutesandladdersgame-1.0-SNAPSHOT.jar
+#### Note - Dependent libraries are kept under libs folder
